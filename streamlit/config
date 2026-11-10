@@ -1,0 +1,12 @@
+# 차분한 민트/초록 계열 포인트 색.
+# [theme]에 바로 지정하면 라이트 고정 커스텀 테마가 되므로, 라이트/다크 각각 지정해
+# 사용자 시스템 설정(라이트/다크)을 계속 따르게 한다.
+[theme.light]
+primaryColor = "#2E9E7E"
+
+[theme.dark]
+primaryColor = "#3DBE98"
+
+[client]
+# 오류 화면에 서버 파일 경로·traceback을 노출하지 않고 예외 종류만 표시
+showErrorDetails = "type"
